@@ -64,14 +64,6 @@ Built using IBM Granite AI and Watson Studio, it demonstrates practical use of c
 The assistant bridges the gap between theoretical concepts and real-world audio applications.
 It serves as both a learning aid and a diagnostic tool for students, hobbyists, and professionals.
 
-# FUTURE SCOPE
-Voice-Based InteractionIntegrate speech-to-text and text-to-speech features to allow hands-free, conversational troubleshooting.
-Circuit Diagram InterpretationEnable the assistant to analyze and provide feedback on uploaded circuit schematics or SPICE files using image processing or OCR.
-Integration with Simulation ToolsConnect with circuit simulation platforms to validate user designs in real time.
-Multilingual SupportExpand accessibility by enabling the assistant to understand and respond in regional languages like Hindi, Tamil, or Bengali.
-Custom Knowledge Base ExpansionAllow users to add their own reference materials or past project notes to train the assistant on organization-specific data.
-Mobile App DeploymentDevelop a lightweight mobile version for students and field engineers who need quick support on the go.
-Community-Driven ImprovementBuild a feature where users can upvote useful responses, submit feedback, or contribute to training the model, making it smarter over time.
 
 
 
