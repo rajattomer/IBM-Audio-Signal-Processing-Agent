@@ -64,8 +64,6 @@ Built using IBM Granite AI and Watson Studio, it demonstrates practical use of c
 The assistant bridges the gap between theoretical concepts and real-world audio applications.
 It serves as both a learning aid and a diagnostic tool for students, hobbyists, and professionals.
 
-# WATCH VIDEO EXPLAINATION HERE: 
-https://www.linkedin.com/posts/thisisashish563_ibm-audioai-graniteai-activity-7357994432878534657-tN6X?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQKcqgB479F7OQ0ws3W4qmC8u8wIzzRi78
 # FUTURE SCOPE
 Voice-Based InteractionIntegrate speech-to-text and text-to-speech features to allow hands-free, conversational troubleshooting.
 Circuit Diagram InterpretationEnable the assistant to analyze and provide feedback on uploaded circuit schematics or SPICE files using image processing or OCR.
